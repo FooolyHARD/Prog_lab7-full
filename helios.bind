@@ -1,0 +1,1 @@
+sshpass -p vwRu_0676 ssh -p 2222 -L 1337:helios.cs.ifmo.ru:2288 s335094@se.ifmo.ru
